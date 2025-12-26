@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Web Development
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
 </p>
 
