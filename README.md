@@ -2,7 +2,7 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,py" />
+  <img src="https://skillicons.dev/icons?i=c,java,js" />
 </p>
 
 ### Web
@@ -12,12 +12,12 @@
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,mysql,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=express,mysql" />
 </p>
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 
