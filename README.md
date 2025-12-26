@@ -1,7 +1,7 @@
 ## 🚀 Tech Stack & Tools
 
 ### 💻 Programming Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,js,sql" />
 </p>
 
