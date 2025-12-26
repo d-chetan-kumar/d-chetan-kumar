@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos+Mono&pause=1000&width=435&lines=Hi+I'm+Chetan+Kumar;Learning+MERN+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos+Mono&pause=1000&color=3EF718&width=435&lines=Hi+I'm+Chetan+Kumar;Learning+MERN+Stack)](https://git.io/typing-svg)
 
 ## About Me
 
