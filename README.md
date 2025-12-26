@@ -1,16 +1,45 @@
-## Hi there 👋
+## 🚀 Tech Stack & Tools
 
-<!--
-**d-chetan-kumar/d-chetan-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,sql" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
+</p>
+
+---
+
+### 🧠 AI / Data & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres,mongodb,supabase" />
+</p>
+
+---
+
+### ⚙️ Tools, Platforms & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,workers" />
+</p>
+
+---
+
+### 🎨 Design & Productivity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,latex,notion,postman,vscode" />
+</p>
+
+---
+
+### 🧪 Currently Exploring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,graphql,redis" />
+</p>
+
+---
+
+> **Philosophy:** Strong fundamentals, clean code, and systems that scale.
